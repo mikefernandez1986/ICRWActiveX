@@ -1,7 +1,0 @@
-.Set DiskDirectoryTemplate=cab
-
-.Set CabinetNameTemplate=ICRWActiveX.cab
-
-release\IRCWActivexSetup.msi
-
-ICRWActiveX.inf
